@@ -12,6 +12,8 @@ Features
 💰 Transparent Transactions – Eliminates fraud in property dealings.
 🏛️ Tamper-Proof Storage – Secure and decentralized.
 🚀 Efficient & Trustworthy – Reduces paperwork and middlemen.
+
+s
 Tech Stack
 Blockchain: Ethereum (Solidity)
 Frontend: React
@@ -27,6 +29,8 @@ npm install
 
 # Start the development server
 npm start
+
+
 Smart Contract Deployment
 # Compile smart contracts
 npx hardhat compile
